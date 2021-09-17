@@ -1,20 +1,3 @@
-/*
-
- * Assignment name: Pong
- * Made by: Jeremy Liu
- * Date completed: December 3, 2019
- 
- * I verify that this program is made by me. - J.L.
- 
- This program is a simulator for the game Pong. There are the three classic modes (1
- player easy, 1 player hard, and 2 player), as well as a practice mode and a new mode 
- that I added. There is a homepage that includes information about all gamemodes in the
- game, as well as patch notes to document the most recent changes that I have made to 
- this program. 
- 
- */
-
-
 // OBJECTS | This contains all objects that will be used
 
 Ball ball; // Ball variable
